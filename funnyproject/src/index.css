@@ -20,3 +20,28 @@ body{
     flex-direction: column;
     align-items: center;
 }
+.login_form{
+   
+   
+    position: absolute;
+    top: 20vw;
+    left: 40vw;
+}
+.list_login{
+    color: crimson;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    padding: 10px;
+    justify-content: center;
+    height: 20vw;
+    background-color: azure;
+    border: 3px solid black;
+    border-radius: 2vw;
+}
+.login_name{
+    font-size: 2vw;
+    position: relative;
+    left: 5.5vw;
+}
